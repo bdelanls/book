@@ -1,6 +1,11 @@
 var cheminCarousel = document.getElementById('carousel');
 var cheminContentCarousel = document.getElementById('content-carousel');
 
+/*
+cheminContentCarousel.onclick = function(){
+    //fermer() ;
+}
+*/
 
 function box(listeVisuels){
     // rucupère la liste des visuels

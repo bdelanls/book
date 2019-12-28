@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis dicta, deserunt fugiat nisi totam ipsum. Delectus aperiam debitis adipisci minima maxime reiciendis fugit provident quo. Perspiciatis facere numquam provident iste?</p> 
+</body>
+<script>
+function hide(e){
+  e.currentTarget.style.visibility = "hidden";
+  console.log(e.currentTarget);
+  // Lorsque cette fonction est utilisée comme un gestionnaire d'évènement : this === e.currentTarget
+}
+
+var ps = document.getElementsByTagName('p');
+
+for(var i = 0; i < ps.length; i++){
+  // console : imprime l'élément <p> clické 
+  ps[i].addEventListener('click', hide, false);
+}
+// console : imprime le <body> (corps)
+document.body.addEventListener('click', hide, false);
+
+// cliquez autour et faites disparaître les paragraphes
+</script>
+</html>

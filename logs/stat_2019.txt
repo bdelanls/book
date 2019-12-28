@@ -1,0 +1,7 @@
+1577461735 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15 	 http://localhost:8888/book/ 
+27/12/2019 03:12:03 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15 	 http://localhost:8888/book/ 
+27/12/2019 15:55:15 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15 	 http://localhost:8888/book/ 
+27/12/2019 15:57:42 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15 	 http://localhost:8888/book/ 
+27/12/2019 16:59:55 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15 	 http://localhost:8888/book/ 
+27/12/2019 20:30:36 	 ::1 	 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) 	 NULL 
+27/12/2019 20:30:36 	 ::1 	 Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1 	 NULL 
